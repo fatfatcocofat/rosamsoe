@@ -1,3 +1,3 @@
 # rosamsoe
 
-> Hello
+> E-Wallet Project Creation With Golang
